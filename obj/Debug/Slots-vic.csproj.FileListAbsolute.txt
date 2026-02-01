@@ -1,0 +1,10 @@
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/bin/Debug/Slotss.exe.config
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/bin/Debug/Slotss.exe
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/bin/Debug/Slotss.pdb
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/obj/Debug/Slots-vic.csproj.AssemblyReference.cache
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/obj/Debug/Slotss.Form1.resources
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/obj/Debug/Slotss.Properties.Resources.resources
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/obj/Debug/Slots-vic.csproj.GenerateResource.cache
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/obj/Debug/Slots-vic.csproj.CoreCompileInputs.cache
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/obj/Debug/Slotss.exe
+/Users/pamparauvictor/Desktop/PamparauVictor_tema09/obj/Debug/Slotss.pdb
